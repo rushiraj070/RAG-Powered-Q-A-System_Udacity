@@ -1,0 +1,357 @@
+,text,embeddings,distances
+0,01 January - ISRO successfully launches its first X-Ray polarimeter satellite XPoSat to study the polarization of intense X-Ray sources in space.,"[-0.01012004  0.00708768 -0.00838726 ... -0.00786012  0.01422756
+  0.01669102]",0.39372415797438554
+1,02 January - 2023–2024 Indian truckers' protests: Protests are organized by Indian truckers against the severity of the newly proposed law in dealing with the hit-and-run cases.,"[ 0.01802976 -0.01537439  0.07256533 ...  0.02293886 -0.01474959
+ -0.01599918]",0.7939955786296167
+2,03 January - A court in Jaunpur sentences two men to death over the 2005 Jaunpur train bombing which killed 14 people.,"[ 0.01140594  0.02266659  0.02984849 ... -0.01190411  0.01903412
+  0.01333634]",0.8602189607885123
+3,03 January - A bus carrying 45 passengers collides with a truck in Golaghat district in Assam killing 12 and injuring 30 others.,[0.01869522 0.02052847 0.05156625 ... 0.02011672 0.00073894 0.02166567],0.8428829066475487
+4,"05 January - 2024 Sandeshkhali violence: A team of ED officers are injured in clashes with local supporters of Shahjahan Sheikh in Sandeshkhali, West Bengal.","[ 0.04931762 -0.02173202  0.07545134 ...  0.00575276 -0.00799683
+ -0.00773757]",0.8836723744897649
+5,"06 January - ISRO's Aditya-L1 spacecraft on India's first solar mission, successfully enters its final orbit around the first Sun-Earth Lagrangian point (L1), approximately 1.5 million kilometers from the earth.","[ 0.01895185 -0.02676057  0.06545259 ...  0.03986387 -0.01048264
+  0.03468646]",0.48271209918002644
+6,"06 January - Three Maldives government ministers (Maryam Shiuna, Malsha Shareef and Mahzoom Majid) make derogatory remarks against the Indian Prime Minister on social media, causing massive backlash and tourism boycott in India, and triggering the 2024 India-Maldives diplomatic row, which forced the Maldivian government to suspend the ministers.","[ 0.00875323  0.02460058  0.06663898 ...  0.01572149 -0.01290673
+  0.01292961]",0.8103202488314389
+7,"07 January - Tribal protests are held in Hasdeo Arand, Chhattisgarh against the felling of four lakh trees at the Parsa Coal Mines, operated by Adani Group and Rajasthan Rajya Vidyut Utpadan Nigam.","[ 0.03300512 -0.00259901  0.07730088 ...  0.02555952 -0.00572867
+ -0.01864734]",0.8505607979950223
+8,"12 January - Prime Minister Modi inaugurates Mumbai Trans Harbour Link, the longest bridge in India that connects Mumbai with Navi Mumbai.",[0.02834832 0.03050586 0.04495206 ... 0.02459606 0.02215709 0.01119111],0.7609222747732536
+9,"14 January - Rahul Gandhi commences his Bharat Jodo Nyay Yatra from Imphal, Manipur.","[ 0.03281512  0.03915754  0.01466817 ...  0.01258938 -0.01250454
+ -0.00996439]",0.7956239542296365
+10,22 January - Ram Mandir Prana Pratishtha: The Ram Mandir at Ayodhya in Uttar Pradesh is inaugurated by Prime Minister Narendra Modi.,"[ 0.02633763  0.0354748  -0.0299925  ...  0.01929166  0.01492089
+ -0.01345141]",0.7462432862077867
+11,25 January - French President Emmanuel Macron arrives in Jaipur as part of his two-day state visit to India and holds a joint roadshow with Indian Prime Minister Modi from Jantar Mantar to Sanganeri gate.,"[ 0.02654435  0.02781914 -0.00089762 ... -0.03421363 -0.00348767
+ -0.01947134]",0.8816337668543613
+12,26 January - India's 75th Republic Day is celebrated with French President Macron participating as the Chief Guest.,"[-0.00286316  0.04156606  0.00993264 ... -0.03860252  0.00133001
+ -0.01945421]",0.8352762681447864
+13,"28 January - 2024 Bihar political crisis: Chief Minister of Bihar Nitish Kumar resigns, ending the coalition with the INDIA bloc and takes oath as the Chief Minister for the ninth time by joining the Bharatiya Janata Party (BJP)-led NDA.","[ 0.0045738   0.01514762  0.04662321 ... -0.01337712 -0.05539703
+ -0.00562134]",0.8613786051333303
+14,"29 January - An 18 year old JEE aspirant dies by suicide in Kota, Rajasthan leaving behind a suicide note.","[-0.00052802  0.01125096  0.0198086  ... -0.01039347  0.01940575
+  0.02891295]",0.8289017354153443
+15,30 January - Three Central Reserve Police Force (CRPF) personnel are killed and 14 others injured in a Naxal attack near Tekalgudem village in Chhattisgarh.,"[ 0.02201063  0.0434024   0.05119998 ... -0.0183697  -0.00099533
+  0.01941144]",0.8217412005522107
+16,"30 January - The historic Masjid Akhonji in Mehrauli, Delhi, is demolished by the Delhi Development Authority.","[ 0.05859796  0.01042209  0.03047012 ... -0.02496372  0.0166322
+ -0.03287403]",0.8495358988002545
+17,31 January - Jharkhand Chief Minister Hemant Soren is arrested by the Enforcement Directorate (ED) in connection with a money laundering case linked to a land scam.,"[ 0.02513244 -0.01259702  0.05675331 ... -0.00681183  0.00593918
+  0.009014  ]",0.8262156927592953
+18,02 February - Champai Soren takes oath as the new Chief Minister of Jharkhand following the arrest of Hemant Soren.,"[ 0.02104103 -0.05400928  0.01961452 ... -0.02858965 -0.01807904
+  0.01454248]",0.8421929469489133
+19,"06 February - An explosion at a firecracker factory in Harda, Madhya Pradesh, leaves 11 dead, over 100 injured and destroys 60 nearby houses, leading to the evacuation of over 100 houses.","[ 0.03974817  0.01046544  0.02816664 ... -0.00282799  0.01946431
+  0.00881016]",0.8483161344989741
+20,"06 February - The Election Commission of India recognises Ajit Pawar's faction as the official Nationalist Congress Party (NCP) and grants his faction the party's poll symbol and name, while directing Sharad Pawar's camp to take a new name.","[ 0.05889676 -0.0250179   0.03590674 ...  0.00691023 -0.02222956
+ -0.01270733]",0.8670353799603295
+21,"07 February - The Uttarakhand Legislative Assembly passes the Uniform Civil Code (UCC) bill 2024, making Uttarakhand the first state in India to pass a law on the same.","[ 0.01957173 -0.00481896  0.0129351  ... -0.01370655 -0.01812393
+  0.00738696]",0.8515302852267627
+22,"08 February - 2024 Haldwani violence: Four people are killed and over 100 are injured after clashes break out between rioters and police in Haldwani, Uttarakhand after the demolition of an illegal madrasa following a court order, prompting the suspension of internet services, closure of schools, and issuance of shoot-at-sight orders against the rioters.","[ 0.01567322 -0.0194071   0.05588336 ... -0.00751883 -0.0073032
+ -0.03845102]",0.8461817076798852
+23,"12 February - Seven of the eight Indian Navy veterans who were released after being initially sentenced to death on espionage charges in Qatar, reach India.","[ 0.00584059  0.05536473  0.0450913  ...  0.00672179 -0.00501582
+ -0.00271612]",0.7146669969848598
+24,"12 February - 2024 Indian farmers' protest: Second round of protests and road blockades by farmers begin in the northern states of Punjab and Haryana, demanding Minimum Support Price and waiver of agricultural loans.","[-0.00718489  0.02402988  0.03068624 ...  0.0237787  -0.02570444
+ -0.02511835]",0.7896252779909608
+25,"15 February - A unanimous judgement by the constitutional bench of the Supreme Court of India strikes down the Electoral bond scheme, stating it to be unconstitutional, arbitrary and violation of right to information under article 19 of the Constitution.",[0.02067878 0.03192552 0.00417272 ... 0.01499939 0.00037421 0.01858401],0.7931236773814154
+26,"15 February - A fire breaks out at a paint factory in Alipur, Delhi, resulting in 11 deaths and 4 injuries.",[0.03750733 0.04849387 0.03852044 ... 0.01400334 0.0079022  0.0121685 ],0.8651681282286148
+27,17 February - ISRO launches the INSAT-3DS meteorological satellite.,"[ 0.00683427  0.02223246  0.0419548  ...  0.03655489 -0.00054316
+  0.02326604]",0.3061817107412872
+28,"17 February - 2024 Virudhunagar explosions: A firecracker factory explosion in Virudhunagar district, Tamil Nadu, leaves 10 dead and seven injured.","[ 0.01967752  0.03053802  0.02645107 ...  0.00339455  0.01468812
+ -0.00275921]",0.8321617651071705
+29,"23 February - 2024 Indian farmers' protest: A farmer dies amidst the ongoing protests, raising the death toll to five.","[-0.00101398  0.02935341  0.03105908 ...  0.0373066   0.03151525
+ -0.02050772]",0.8183075944839088
+30,"24 February - A tractor carrying a wagon loaded with Hindu pilgrims overturns and falls into a pond in Kasganj District, Uttar Pradesh, killing 23 people and injuring nine.","[-0.02062848  0.05239461  0.01966423 ...  0.02127854  0.03141943
+  0.00546048]",0.8405511830136968
+31,"25 February - Former MLA and then INLD state president Nafe Singh Rathee is shot and killed in Bahadurgarh, Jhajjar district, Haryana.","[ 0.01872496 -0.00335459  0.01094737 ... -0.02365685  0.00945362
+ -0.00986883]",0.8408021010837913
+32,"27 February - 2024 Rajya Sabha elections: Elections are held to elect 65 of the 245 members of Rajya Sabha with the BJP winning 32 seats, two more than what it held previously at the expense of Indian National Congress, whose candidates lost in Himachal Pradesh and Uttar Pradesh due to cross voting of legislators from the Congress and the Samajwadi Party.","[ 0.01020182 -0.02119927  0.06750266 ... -0.00952135 -0.01113878
+ -0.02353381]",0.8204582898652248
+33,01 March - 2024 Bangalore Cafe bombing: At least eight people are injured after an improvised explosive device explodes in a café in Bengaluru.,"[-0.00293288  0.00460163  0.07705343 ... -0.00600327 -0.00256395
+ -0.00699764]",0.7831692042450629
+34,09 March - Election Commissioner Arun Goel resigns ahead of the general elections.,"[ 0.02842677  0.02938449  0.05676648 ...  0.00346356 -0.00751481
+  0.00751481]",0.850451927370567
+35,09 March - The Miss World 2023 pageant is held in Mumbai.,"[ 0.04077509 -0.00154034  0.03989489 ...  0.01221272  0.01938632
+  0.00031185]",0.8098510131359038
+36,"11 March - The union government announces the implementation of the Citizenship Amendment Act, which enables persecuted minority communities from select religions (including Hindus, Sikhs, Jains, Christians, Buddhists, and Parsis) from India's neighboring countries Pakistan, Afghanistan and Bangladesh to acquire Indian citizenship.","[ 0.01848508  0.04366081  0.08333296 ...  0.00546296  0.01504325
+ -0.00901737]",0.8314033311557649
+37,12 March - The State Bank of India submits the data about electoral bonds before the Election Commission after the Supreme Court dismissed its plea seeking an extension up to 30 June for disclosing details about electoral bonds.,"[ 0.04561819  0.00752643  0.06618659 ... -0.00459055  0.02224605
+  0.03971196]",0.7432561174300494
+38,14 March - The Election Commission publishes data on electoral bonds submitted by the State Bank.,"[ 0.03762474  0.01446457  0.07139548 ... -0.01861967 -0.01512698
+  0.01778865]",0.8052850680574373
+39,16 March - Chief Election Commissioner Rajiv Kumar announces the schedule for the upcoming general elections.,"[ 0.06449061 -0.01334744  0.06111563 ...  0.0338718  -0.00772078
+ -0.00462535]",0.8230290921792078
+40,19 March - Two children are attacked and killed in Budaun with the suspect killed in an encounter by the Uttar Pradesh Police.,"[ 0.01972869  0.03283742  0.03604649 ... -0.01239224  0.00820431
+  0.02672203]",0.8834040509603067
+41,21 March - Arrest of Arvind Kejriwal: Delhi Chief Minister Arvind Kejriwal is arrested by the Enforcement Directorate (ED) in connection with the Delhi excise policy case.,"[ 0.04523093 -0.03864168  0.02357163 ... -0.02182558  0.01675373
+  0.00719725]",0.8669544650106678
+42,26 March - Sonam Wangchuk ends his 21-day hunger strike demanding statehood for Ladakh.,"[ 0.04234477 -0.02025048  0.03373334 ... -0.00090619  0.01844857
+ -0.01511715]",0.7762592347521113
+43,26 March - Two Chinese nationals are arrested by the Indian Police near the India–Nepal border after they were intercepted entering Uttar Pradesh illegally.,"[ 0.00758271  0.00533657  0.05454453 ... -0.02899271 -0.010705
+  0.00778449]",0.8226994540265341
+44,"03 April - Seven people, including two children are killed in a fire at a tailoring shop in Aurangabad.","[ 0.01555168  0.04489407  0.04858573 ... -0.02541734  0.02136499
+ -0.00147057]",0.9061417436807887
+45,12 April - Two suspects in the March café bombing in Bengaluru are arrested in Kolkata.,"[ 0.00417052 -0.01276724  0.05687525 ...  0.00736233 -0.01102425
+  0.0038901 ]",0.8124467747085413
+46,14 April - The BJP launches its manifesto for the 2024 Lok Sabha election titled ‘Sankalp Patra’ (Resolution Letter).,"[ 0.0149151   0.04217913  0.07391433 ...  0.03883976  0.01306612
+ -0.04648221]",0.7281712358886
+47,16 April - At least six people are killed and three others are reported missing after a boat capsizes along the Jhelum River in Srinagar.,"[ 0.02257542  0.05938143  0.07058851 ...  0.01721376  0.06010706
+ -0.02164822]",0.8161994928922318
+48,"16 April - 2024 Kanker clash: Twenty-nine Naxalites are killed and three members of the security forces are injured during a police raid in Kanker District, Chhattisgarh.","[ 0.0429198   0.02122205  0.075461   ...  0.00595688 -0.01407596
+ -0.01120023]",0.7948284589871832
+49,19 April - 1 June - 2024 Indian general election: First of the seven phases of polling begins to elect members to the 18th Lok Sabha with the election expected to be the largest in history.,"[ 0.04704812  0.01685107  0.07091962 ...  0.01008101  0.01679998
+ -0.0169737 ]",0.778227772606649
+50,19 April - 2024 Arunachal Pradesh Legislative Assembly election,"[ 0.03403481 -0.02881266  0.04525108 ... -0.02109295  0.01709687
+ -0.011449  ]",0.8123098263313651
+51,19 April - 2024 Sikkim Legislative Assembly election,"[ 0.02299693 -0.02290822  0.03417384 ... -0.00370069 -0.00295778
+ -0.01440357]",0.7933325383898998
+52,19 April - A restaurant fire that spreads to an adjacent hotel in Patna kills six people and injures 20.,"[ 0.01183205  0.01356906  0.07969778 ... -0.00672322  0.01166857
+ -0.01477474]",0.8746304804311136
+53,29 April - 2024 Indian heat wave: Two more people die in South India as a heatwave sweeps across India.,[0.0327469  0.01818118 0.04571267 ... 0.00159085 0.04016482 0.01198919],0.8276209670413779
+54,"01 May - 2024 Indian bomb hoaxes: About 150 schools in Delhi receive bomb threats, prompting evacuation and closure of schools in the region.","[ 0.0368273   0.02147685  0.07269089 ... -0.01718607  0.00816281
+ -0.03705675]",0.734988979707496
+55,04 May - Minister of External Affairs S. Jaishankar rejects comments made by US President Joe Biden saying that India's economic growth was being held back by xenophobia.,"[ 0.00091538  0.02199602  0.0488419  ... -0.00961387  0.00782737
+  0.00599794]",0.8782764659431275
+56,"09 May - Air India Express cancels more than 85 flights due to staff calling in sick, linked to a protest against working conditions imposed by the new owner Tata Group.","[-0.02422571  0.03744841  0.05785528 ...  0.03405919 -0.00889668
+  0.0029954 ]",0.7721686903524909
+57,10 May - The Supreme Court grants Arvind Kejriwal interim bail in connection with the Delhi liquor policy money laundering case thus permitting him to campaign in general elections.,"[ 0.03048997  0.0265256   0.03483295 ... -0.01855233  0.02427616
+ -0.01337416]",0.847688709218358
+58,10 May - Security forces kill 12 Maoists in Chhattisgarh.,"[ 0.0787233   0.05298992  0.0649347  ...  0.00011563 -0.01078237
+ -0.01250594]",0.8057204112491041
+59,13 May - 1 June – 2024 Odisha Legislative Assembly election,"[ 0.06835682  0.01281145  0.05072198 ...  0.02067947 -0.00429958
+ -0.03461492]",0.7880757929296263
+60,13 May - Mumbai hoarding collapse: 17 people are killed and 74 others are injured after an illegal hoarding collapses onto a gas station during a storm in the Ghatkopar suburb of Mumbai.,"[ 0.01057309  0.03175455  0.02111089 ...  0.00999092  0.05720523
+ -0.00381937]",0.8784610243463864
+61,13 May - 2024 Andhra Pradesh Legislative Assembly election.,"[ 0.05130605  0.00222207  0.04231988 ...  0.00865436  0.01558982
+ -0.02145368]",0.8021402967180351
+62,"19 May - 2024 Pune Porsche car crash: A high speeding Porsche Taycan car driven by Vedant Agarwal under the influence of alcohol kills two software engineers in Kalyani Nagar, Pune.","[-0.00393245  0.01911279  0.01063228 ... -0.00689832  0.02418729
+ -0.00899831]",0.904412387512166
+63,21 May - The government declares a one-day state mourning in India for Iranian President Ebrahim Raisi following his death in a helicopter crash.,"[-0.00909152  0.03605476  0.04354591 ... -0.00689282  0.02081954
+ -0.03226055]",0.7799182314255915
+64,21 May - Charges of sexual harassment are filed against former Wrestling Federation of India president Brij Bhushan Sharan Singh in a Delhi court.,"[ 0.00539598  0.04369457  0.01719472 ... -0.01087426 -0.00123789
+  0.00848215]",0.8511674822436808
+65,22 May - 2024 Indian bomb hoaxes: The North Block building of the Central Secretariat which houses the Home Ministry receives a bomb threat email that is subsequently dismissed as a hoax.,"[ 0.0297149   0.01011277  0.05555094 ... -0.03477129 -0.00622812
+ -0.03705705]",0.7323615445409802
+66,22 May - The Calcutta High Court issues an order invalidating all Other Backward Classes (OBC) certificates issued by the Government of West Bengal since 2010.,"[ 0.07171349  0.00573102  0.07032143 ...  0.03114171  0.00533529
+ -0.02683082]",0.8624797983900493
+67,"23 May - 2024 Thane explosion: At least nine people are killed and 64 others injured after a fire caused by an exploding boiler breaks out at a chemical factory in Dombivli, outside Thane.","[ 0.02976005  0.04508966  0.03318125 ... -0.01224833  0.02918985
+ -0.01486906]",0.888833179862007
+68,"25 May - 2024 Rajkot gaming zone fire: At least 33 people are killed including nine children in a fire at a gaming arcade in Rajkot, Gujarat.","[ 0.02790933  0.02529488  0.03252821 ...  0.00508458  0.063052
+ -0.01178685]",0.8658261432641247
+69,"25 May - At least seven infants are killed in a fire in a baby care facility at a hospital in Shahdara, East Delhi.",[0.00419212 0.03188724 0.02365962 ... 0.00559645 0.01639259 0.01348995],0.8735656329838014
+70,26 May - Twelve people are killed during heavy rains as Cyclone Remal makes landfall at West Bengal.,"[ 0.05433377  0.05227472  0.07021789 ...  0.02912088  0.02947807
+ -0.03884886]",0.8695026635922329
+71,"28 May - Seventeen people are killed and 12 others are reported missing after a stone quarry collapses due to heavy rains caused by cyclone Remal in Melthum, Mizoram.","[ 0.0374497   0.09127934  0.00351448 ...  0.00661146  0.03365211
+ -0.02047494]",0.9070088983189512
+72,"29 May - 2024 Indian heat wave: The India Meteorological Department records a maximum temperature of 52.3 °C (126.1 °F) at its station in the Mungeshpur area of Delhi, the highest ever temperature recorded in the city.","[ 0.06188763  0.02643947  0.03186563 ... -0.00698698  0.02063619
+ -0.01192081]",0.841409719655095
+73,"30 May - A bus carrying Hindu pilgrims falls into a gorge in Jammu and Kashmir, killing 21 people and injuring 35 others.","[ 0.00234928  0.03005031  0.035995   ... -0.01101096  0.01853885
+ -0.03215444]",0.8398230409543805
+74,30 May - 2024 Indian heat wave: At least 15 people die in a heatwave that affects northern and central India.,"[ 0.02385346  0.06471396  0.03059087 ...  0.01192673  0.04208152
+ -0.00649756]",0.8547948168851173
+75,"31 May - Prajwal Revanna, Member of Parliament from Karnataka representing the Janata Dal (Secular), is arrested in Bengaluru over sexual assault charges.","[ 0.01287793 -0.02165353  0.05066588 ...  0.02943527 -0.01100651
+ -0.00826281]",0.865801108133527
+76,04 June - Results are declared for the 2024 Indian general election.,"[ 0.05045815  0.03190123  0.0762664  ... -0.00158261  0.02692028
+ -0.0059308 ]",0.7825638141774316
+77,04 June - 2024 NEET controversy : A controversy erupts due to the sudden declaration of the NEET-UG results 10 days earlier than the originally scheduled date amid allegations of irregularities and paper leaks.,"[ 0.00193692  0.01286667  0.05966714 ...  0.00850232  0.01304275
+ -0.00061118]",0.7849656253630224
+78,04 June - President Droupadi Murmu dissolves the 17th Lok Sabha.,"[ 0.04980541  0.01326386  0.02986214 ... -0.00709094 -0.02901798
+ -0.01301061]",0.8429928493468535
+79,06 June - 2024 Uttarakhand snowstorm disaster: A blizzard in Uttarakhand kills nine trekkers from Karnataka.,"[-0.02748694  0.00553342  0.02730164 ...  0.0166157   0.0436085
+ -0.0209292 ]",0.8383318335864637
+80,"09 June - 2024 Reasi attack: Nine people are killed and 33 others are injured after a bus carrying Hindu pilgrims is attacked by Lashkar-e-Taiba militants near Reasi, Jammu and Kashmir.","[-0.0077441  -0.02422827  0.07219701 ...  0.02512261 -0.01402476
+  0.0081557 ]",0.7606892755994051
+81,09 June - Narendra Modi takes his oath of office as Prime Minister of India for the third time.,"[ 0.00436564  0.01899623  0.04278762 ...  0.04445719 -0.02805268
+ -0.01165788]",0.7796458947666636
+82,11 June - Kannada cinema actor Darshan is arrested by Karnataka Police in connection with a murder case.,"[-0.00503955 -0.01474675 -0.02220499 ...  0.03815983 -0.0052018
+ -0.03702163]",0.8420478088934085
+83,12 June - The Indian external affairs ministry issues a notice urging the Russian Government to quickly return all Indian nationals who are serving in the Russian army after two Indians recruited are killed in the war with Ukraine.,"[-0.02960673  0.05519826  0.05824136 ...  0.00401255  0.00756018
+  0.00056133]",0.7689962715469747
+84,14 June - 2024 Northeast India floods: Heavy rains and landslides kill six people across Sikkim.,"[ 0.02397341  0.05655266  0.07228905 ... -0.01023992  0.03829599
+ -0.01020407]",0.8223453754551029
+85,14 June - The World Health Organization officially confirms a human Influenza A virus subtype H9N2 case in a child in West Bengal.,"[-0.0040558   0.00184442  0.0355793  ... -0.00040394  0.00714215
+  0.0316796 ]",0.8780234140314551
+86,"17 June - 2024 West Bengal train collision: A goods train collides with the Kanchenjunga Express near New Jalpaiguri station in Darjeeling District, West Bengal, killing 15 people and injuring 60 others.","[-0.00208956 -0.01393209  0.06842849 ...  0.0216944  -0.01367168
+ -0.01041652]",0.8861284612383116
+87,19 June - 2024 Northeast India floods: Six people are killed in flooding and landslides in Assam.,[0.03269294 0.05703101 0.08459802 ... 0.00884929 0.0464159  0.00554468],0.8266126979826178
+88,20 June - 2024 Tamil Nadu alcohol poisoning: At least 47 people are reported killed after suffering methanol poisoning caused by tainted liquor in Kallakurichi district in Tamil Nadu.,"[ 1.28667746e-02  9.39971209e-03  1.04991570e-02 ...  2.22392734e-02
+ -7.62416967e-05 -1.44887278e-02]",0.8869435097914331
+89,21 June - A Valentine's Day film released.,"[ 0.00080174  0.06198727 -0.00509147 ... -0.00389825 -0.02495841
+ -0.00410864]",0.8168465060904583
+90,22 June - Subodh Kumar Singh is dismissed as the director general of the National Testing Agency following uproar over the 2024 NEET controversy.,"[-0.0017541  -0.00107703  0.06093074 ...  0.00559941 -0.00361676
+  0.01295864]",0.7937888338231831
+91,27 June - President Droupadi Murmu inaugurates the 18th Lok Sabha.,"[ 0.03909944 -0.00899908  0.01593608 ... -0.01636651 -0.02104123
+ -0.01507521]",0.7930499080274577
+92,28 June - One person is killed after a roof at Terminal 1 of Indira Gandhi International Airport in Delhi collapses amid heavy rains.,"[ 0.02379565  0.05595994  0.06716038 ... -0.00542059  0.04628107
+ -0.01071438]",0.8390509560927508
+93,"29 June - Five soldiers are killed after an Indian Army tank sinks while crossing the Shyok River in Saser Brangsa, Ladakh.","[ 0.00178722  0.03486703 -0.01911166 ... -0.02637083  0.0352506
+ -0.00573446]",0.8382831363637688
+94,29 June - 2024 Virudhunagar explosions: An explosion firecracker factory in Virudhunagar district in Tamil Nadu leaves four dead and one injured.,"[ 0.01403576  0.03511067  0.02003286 ... -0.00420807  0.02600869
+  0.00693813]",0.8659571234291938
+95,29 June - India beat South Africa and wins the 2024 ICC Men's T20 World Cup.,"[ 0.03906642 -0.00312825  0.06603459 ...  0.01909824  0.01581067
+  0.03760978]",0.8028132909303954
+96,"30 June - 2024 Lonavala waterfall tragedy: Five people, including four children, are swept away by sudden flooding near a waterfall close to Bhushi Dam in Lonavala, Maharashtra.","[ 0.03152518  0.03920465  0.02672292 ...  0.00729136  0.06632086
+ -0.00373883]",0.8980299691357083
+97,"01 July - The Bharatiya Nyaya Sanhita and two other laws passed in 2023 come into effect as the country's criminal codes, replacing the Indian Penal Code and related laws enacted during the colonial era.","[ 0.03854462  0.02065135  0.03346156 ...  0.01391573 -0.00547625
+ -0.0016255 ]",0.8298212190792881
+98,"02 July - 2024 Uttar Pradesh crowd crush: At least 123 people die in a crowd crush at a religious event in Rati Bhanpur village within the Sikandra Rau area of Hathras district, Uttar Pradesh.","[-0.00853924  0.01314572  0.04112421 ...  0.02543698  0.01714421
+ -0.00274691]",0.9068649112263542
+99,"03 July - 2024 India-Bangladesh floods: At least sixteen people are killed by floods and landslides in Assam and Arunachal Pradesh, while over 300,000 more are displaced.",[0.05103962 0.03985144 0.0892573  ... 0.02101145 0.04665534 0.00741915],0.8228304662892896
+100,05 July - A victory parade is held in Mumbai by the Indian cricket team following their victory in the 2024 ICC Men's T20 World Cup.,[0.06816988 0.01297337 0.04771493 ... 0.00021856 0.02381767 0.01061548],0.858115761549225
+101,"06 July - 2024 Surat building collapse: At least seven people are killed and more than 15 others injured in the collapse of a residential building in Surat, Gujarat.","[ 0.00027301  0.04012991  0.0337273  ...  0.01149372  0.03017488
+ -0.01440587]",0.8428630770989523
+102,"07 July - Two soldiers and six militants are killed during two separate encounters in Kulgam district, Jammu and Kashmir.","[ 0.02566318  0.00333013  0.05224432 ...  0.00378911 -0.00053444
+  0.01170409]",0.8703043535666447
+103,"08 July - Five soldiers are killed in an ambush by militants in Kathua district, Jammu and Kashmir.","[-0.00040101  0.04397586  0.00084071 ...  0.01029183  0.02477799
+ -0.00290555]",0.8454669877050418
+104,10 July - Eighteen people are killed after a double-decker bus collides with a milk truck in Uttar Pradesh.,"[-0.01247218  0.01024383  0.018878   ...  0.00591854  0.00119014
+  0.02159363]",0.8851245398266263
+105,"12 July - The wedding of Anant Ambani, the second son of Asia's richest-man Mukesh Ambani, and heiress Radhika Merchant is held in Mumbai in a lavish ceremony attended by international VIPs.","[ 0.03650708 -0.00019875 -0.02643689 ...  0.00369682  0.02061738
+ -0.01291104]",0.8417787107137735
+106,"12 July - •14 July - ISRO successfully launched chandrayan III dated on 14 July 2024* 15 July – Four soldiers including an officer are killed in an ambush by militants in Doda district, Jammu and Kashmir.",[0.02670608 0.00750543 0.04870995 ... 0.01048952 0.02859499 0.0242746 ],0.5186432278204833
+107,"18 July - Twelve coaches of the Dibrugarh–Chandigarh Express train derail in Gonda, Uttar Pradesh, resulting in at least four dead and 25 injured.","[ 0.00720155  0.04478307  0.03243187 ... -0.0046317   0.02539965
+  0.00390955]",0.8671320605728235
+108,"18 July - Naxalite–Maoist insurgency: Two soldiers are killed and four others injured in an attack by Maoists in Bijapur district, Chhattisgarh.","[ 0.04236333  0.03741835  0.04614021 ...  0.00392776 -0.01409515
+  0.00496689]",0.7983097299002248
+109,"19 July - WazirX, an Indian cryptocurrency exchange owned by Binance, announces a security breach in which US$234 million in cryptocurrency was stolen, amounting to half of the platform's total assets.","[ 0.00537278  0.02193165  0.02059813 ... -0.02807537  0.00567342
+  0.03102816]",0.859652732054053
+110,26 July - The Charaideo maidam tomb complex in Assam is designated as a World Heritage Site by UNESCO.,"[ 0.05273345 -0.00681539  0.02284977 ...  0.00788192  0.04226584
+ -0.00646682]",0.7995579746734872
+111,"26 July - China and India agree to cooperate in withdrawing all their troops from their disputed border, with aims of peacefully achieving ""complete disengagement"" from the border conflict as quickly as possible.","[ 0.01480217  0.02193152  0.05362458 ... -0.01788197  0.00468629
+  0.00653789]",0.838661264585983
+112,"27 July - 3 UPSC aspirants die due to excessive flooding of the basement of the Rau IAS coaching centre in Rajendra Nagar, Delhi.","[-0.01618316  0.04936289  0.06147901 ... -0.00112147  0.03205067
+  0.01424069]",0.7876850474579431
+113,28 July - Manu Bhaker wins a bronze medal in the 10 meter air pistol the 2024 Summer Olympics in Paris.,"[ 0.01643288  0.02976131  0.01460125 ... -0.02686382  0.06924988
+  0.01254197]",0.8749077517829609
+114,"30 July - 2024 Wayanad landslides – At least 231 people are killed, 397 injured and 118 missing following landslides in Wayanad district, Kerala.","[-0.00373298  0.00748168  0.05708713 ...  0.02921419  0.03133086
+ -0.01282574]",0.8634466125642246
+115,"30 July - A train derails near Barabamboo, Jharkhand, killing two people and injuring 20 others.","[ 0.00249289  0.03746882  0.04806485 ...  0.01384936 -0.00182182
+  0.01558179]",0.8802841039967055
+116,30 July - Manu Bhaker and Sarabjot Singh win bronze medals in Mixed 10 metre air pistol team at the 2024 Summer Olympics in Paris.,"[ 0.03568636  0.04145675  0.01022095 ... -0.01470221  0.04939615
+  0.00997029]",0.8731219430706307
+117,"01 August - Eleven people are killed by heavy downpours and flooding in Delhi and North India and over 250 people are declared missing in and around the Himalayas, with rainfall reaching 183 mm (7 inches) in some regions.","[ 0.02966107  0.05165157  0.06976139 ... -0.0149667   0.04625039
+ -0.00645077]",0.8652683577764934
+118,"01 August - China and India conduct the 30th round of talks in New Delhi, to resolve the ongoing border disputes, by agreeing to speed up negotiations over the border disputes and to maintain peace and tranquility in border regions.","[-0.00288799  0.04150493  0.07808103 ... -0.00534984 -0.00707494
+  0.02630768]",0.8174630612789185
+119,01 August - Swapnil Kusale wins a bronze medal in Men's 50 meter rifle three positions at the 2024 Summer Olympics in Paris.,"[ 0.03293504  0.03344303  0.00793743 ...  0.00146975  0.00630761
+ -0.00107023]",0.8602503523073457
+120,08 August - The India men's national field hockey team wins a bronze medal at the 2024 Summer Olympics in Paris.,[0.02754852 0.02890965 0.00305536 ... 0.01171339 0.04543493 0.0046034 ],0.8470658194314259
+121,08 August - Neeraj Chopra wins a silver medal in Javelin throw at the 2024 Summer Olympics in Paris.,"[ 0.01652499 -0.00520632 -0.04057287 ... -0.02907722  0.06500112
+  0.01801478]",0.8476461626600803
+122,09 August - Aman Sehrawat wins a bronze medal in Men's freestyle 57 kilograms at the 2024 Summer Olympics in Paris.,"[ 0.03021953  0.02089212  0.01620139 ...  0.00306411  0.04407556
+ -0.02284839]",0.8804329043143615
+123,09 August - 2024 Kolkata rape and murder: The rape and murder of a female 31 year old post-graduate trainee doctor at R. G. Kar Medical College and Hospital in Kolkata triggers outrage and protests across the country.,"[ 0.02127077  0.01920607  0.04409007 ...  0.03284173  0.0211955
+ -0.04430515]",0.8499319870753098
+124,"12 August - At least seven people are killed and 10 others are injured in a crowd crush believed to have been caused by a clash between a flower vendor and Hindu worshippers at the Baba Siddhnath Temple in Jehanabad District, Bihar.",[0.02154534 0.01311263 0.04922757 ... 0.01650117 0.0134548  0.00775389],0.9249756341371627
+125,"21 August - At least 18 people are killed and 37 others are injured in an explosion at a pharmaceutical factory in Anakapalli district, Andhra Pradesh.","[ 0.02491556  0.03354805  0.01148611 ... -0.00116536  0.02407686
+  0.02280858]",0.8486772932349675
+126,23 August - At least 19 people are reported killed following days of flooding in Tripura.,"[ 0.06143994  0.06807875  0.0277923  ...  0.00360805  0.05669793
+ -0.00387092]",0.9111603930018042
+127,"23 August - During a meeting in Kyiv, Narendra Modi urges Ukrainian President Volodymyr Zelenskyy to end the Russo-Ukrainian War, and volunteers to act as a mediator in talks between Zelenskyy and Russia. In a later national address, Zelenskyy thanks Modi but states that it is necessary for India to respect international law as well as Ukraine's territorial integrity and sovereignty.","[-0.02655044  0.02891551  0.0269412  ...  0.02028816 -0.01860176
+ -0.00414144]",0.854860012204302
+128,29 August - At least 28 people are reported killed following days of flooding in Gujarat.,[0.02964524 0.08062162 0.05009458 ... 0.0140563  0.06911624 0.01324798],0.8893488076445621
+129,"04 September - The 2024 Tripura Peace Accord is signed between the National Liberation Front of Tripura and the All Tripura Tiger Force on one side and the State Government of Tripura and the Government of India on the other, ending the 35-year old Insurgency in Tripura.","[ 0.01882263 -0.01790265  0.03381729 ...  0.02523079  0.0051868
+ -0.01053221]",0.829591703158545
+130,"07 September - 2023–2025 Manipur violence: At least five people are killed in clashes between the Kuki and Meitei communities in Jiribam District, Manipur.","[ 0.02046532  0.04788354  0.03363755 ...  0.01844537  0.02653582
+ -0.02251717]",0.887754788712033
+131,07 September - At least eight people are killed in a building collapse in Lucknow.,"[-0.00417136  0.04740814  0.05976612 ...  0.01783726  0.00135098
+ -0.01076479]",0.8524605945351904
+132,07 September - The UPSC dismisses and cancels the candidature of trainee IAS officer Puja Khedkar due to her fraulent methods of clearing the UPSC exam.,"[ 0.0163828   0.01209797  0.04214136 ... -0.00387557 -0.0130095
+  0.00831542]",0.7741400765574086
+133,10 September - A five-day curfew and internet blackout is imposed in Manipur due to interethnic violence.,"[ 0.00178652  0.06719201 -0.00151764 ...  0.01391518 -0.01185285
+ -0.02807429]",0.8308744461431719
+134,12 September - The Ministry of External Affairs says that about 45 Indian nationals have been discharged from the Russian army and efforts are under way to get a further 50 Indians released.,"[-0.02246287  0.02455007  0.04806218 ...  0.02339929 -0.01109041
+  0.00100341]",0.7720332819953799
+135,"13 September - Two soldiers are killed in clashes with separatists in Kishtwar, Jammu and Kashmir.","[ 0.01000343  0.00446718  0.03201478 ...  0.02464584 -0.00212263
+ -0.00664827]",0.820356378692334
+136,15 September - Arvind Kejriwal announces his resignation as Chief Minister of Delhi effective 17 September. He is succeeded by Atishi Marlena Singh.,"[ 0.03840622  0.02761723  0.03681581 ...  0.01876252 -0.0016119
+ -0.02323286]",0.861834736927536
+137,"17 September - The Supreme Court of India quashes criminal proceedings against 30 soldiers accused of orchestrating the 2021 Nagaland killings, citing the lack of government approval for prosecution.","[ 0.07803066  0.03486906  0.0198515  ...  0.0073672   0.01854694
+ -0.0094909 ]",0.8258515927853212
+138,18 September - 6 October – 2024 Jammu and Kashmir Legislative Assembly election: An alliance between the Congress party and the Jammu & Kashmir National Conference wins 48 of 90 seats in the state chamber.,"[ 0.02268198 -0.04162494  0.09899093 ... -0.00849025  0.0148631
+ -0.0123842 ]",0.8423874784786325
+139,19 September - Ernst & Young employee Anna Sebastian Perayil working at Pune dies due to work pressure in July 2024.,"[-0.01721101  0.021033    0.07331504 ... -0.01391784  0.04038337
+  0.00498783]",0.8687305824846322
+140,"19 September - Laboratory tests reveal the usage of beef and other animal fats with fish oil in the preparations of Tirupati laddu sweets offered at the Tirupati Temple in Andhra Pradesh, sparking political uproar in the state.","[ 0.01761794 -0.03994221  0.02882936 ...  0.04676763  0.00154003
+  0.02006967]",0.795129203556596
+141,20 September - At least 26 people are killed in West Bengal following a week of flooding blamed by state officials on dams being opened in neighbouring Jharkhand state.,"[ 0.03621743  0.05890915  0.07128645 ...  0.02271299  0.04074727
+ -0.01216463]",0.8802392080595253
+142,"24 September - The first case of clade 1b mpox in India is discovered in a 38-year-old patient in Malappuram District, Kerala who had recently travelled to the United Arab Emirates.","[ 0.02040007 -0.00030948  0.03464494 ...  0.0298307  -0.00642448
+ -0.00966145]",0.8470083096647663
+143,26 September - 2024 Jivitputrika tragedy: At least 46 people taking part in Jivitputrika festivities drown in rivers and bodies of water swollen by flooding across Bihar . Thirty-seven of the victims are children.,[0.01332335 0.05744224 0.02386655 ... 0.02912745 0.03498716 0.00554427],0.8553541894529767
+144,"26 September - Up to 275 millimeters (11 inches) of rain falls across Mumbai, causing at least four deaths.",[0.04322896 0.06123341 0.06443217 ... 0.02346519 0.05725781 0.00514658],0.8490050912246138
+145,"27 September - A Class 2 student is killed in a ""tantric sacrificial rite"" performed by the owners of his school in Hathras district, Uttar Pradesh for the ""prosperity"" of the institute.","[ 0.01007129  0.03407776  0.04779934 ...  0.00946186  0.01589542
+ -0.01534253]",0.8425011879829554
+146,"04 October - A truck collides with a tractor trolley in Bhadohi district, Uttar Pradesh, killing 10 and injuring three.","[-0.00546756  0.02915339  0.03456373 ...  0.02784242  0.01340099
+  0.02074656]",0.8679898152745449
+147,05 October - 2024 Abujhmarh clash: More than 36 Maoists are killed in an operation carried out by District Reserve Guards and Special Task Force in the Abujhmarh forest area in Chhattisgarh.,"[ 0.02504969  0.04017724  0.09926391 ...  0.00351099 -0.02704687
+  0.00794621]",0.8845656297356554
+148,"05 October - 2024 Haryana Legislative Assembly election: The BJP retains control of the state Legislative Assembly for a record third term, winning 48 of 90 seats.","[ 0.00104364  0.01025111  0.0647254  ... -0.02719325  0.02411109
+ -0.01402579]",0.89832846280197
+149,"06 October - At least 5 people are killed and many others are hospitalized due to dehydration caused in a crowd crush in the celebration of the 92nd anniversary of the Indian Air Force in Chennai, Tamil Nadu.","[ 0.05070506  0.05112373  0.05512431 ...  0.00288705 -0.00560547
+ -0.01265301]",0.7990385916734039
+150,"11 October - 2024 Tamil Nadu train collision: : A Mysuru Dharbhanga train collides with a freight train on a loop line in Chennai, injuring 19 people.","[-0.00193507  0.00392869  0.04244925 ... -0.00172756 -0.02464664
+ -0.02943338]",0.8338256275030822
+151,12 October - Former Maharashtra state minister Baba Siddique is shot dead in Mumbai.,"[ 0.0213789  -0.00610419  0.04047941 ... -0.00118666 -0.00798386
+ -0.02098018]",0.829517495250637
+152,14 October - India recalls its high commissioner to Canada Sanjay Kumar Verma in retaliation to Ottawa placing him and other Indian diplomats under investigation over the murder of Canadian national and Sikh separatist Hardeep Singh Nijjar in 2023. It also orders the expulsion of Canada's acting high commissioner Stewart Ross Wheeler and five other diplomats.,"[-0.02740965  0.0341431   0.06300413 ... -0.01544172  0.00100526
+ -0.05648482]",0.7984842781501752
+153,"18 October - A migrant worker from Bihar is found shot dead by suspected militants in Shopian District, Jammu and Kashmir.","[ 3.09885945e-02  1.92141384e-02  1.39317624e-02 ... -1.82715768e-03
+ -6.39111386e-05 -2.62858672e-03]",0.820321825809055
+154,"20 October - Seven workers on a tunnel project are killed in an attack by militants on their camp in Gagangir, Jammu and Kashmir.","[-0.00489643  0.04604192  0.04528517 ... -0.01301401  0.0201533
+ -0.01090309]",0.8354898060917948
+155,21 October - India announces an agreement with China regarding military patrols along the Line of Actual Control between their countries.,"[-0.00348064  0.04382862  0.07160794 ... -0.02223223 -0.01077079
+ -0.01791295]",0.779789794042548
+156,25 October - At least two people are killed after Cyclone Dana makes landfall in Odisha.,"[ 0.07164615  0.07747631  0.06028814 ...  0.03001451  0.01100712
+ -0.01692905]",0.8399292645061156
+157,"27 October - 2024 Mumbai stampede :A stampede occurs at the Bandra Terminus railway station in Mumbai, injuring nine people, two of them critically.","[-0.00577316  0.00654898  0.03863043 ...  0.01872666  0.01225259
+ -0.0017389 ]",0.8428193041182253
+158,28 October - The first private military aircraft manufacturing facility in India is inaugurated in Vadodara as part of a joint venture between Airbus and Tata Advanced Systems.,"[ 0.01026895  0.02088638  0.066099   ...  0.05562208  0.00026241
+ -0.00092741]",0.7142747370541414
+159,"28 October - At least 150 people are injured after an explosion caused by a fire at a fireworks storage facility near the Veerarkavu temple in Kasargod, Kerala.","[ 0.02969313  0.03324841  0.03959085 ...  0.00485833  0.02802523
+ -0.01585609]",0.8458351976306635
+160,"31 October - At least ten elephants die from suspected fungus poisoning from consuming contaminated millet in Bandhavgarh National Park, Madhya Pradesh.",[0.03771039 0.0207937  0.0539408  ... 0.0481855  0.00515929 0.02550147],0.9109440565362104
+161,03 November - Nine people are injured in a grenade attack on a market in Srinagar.,"[ 0.00653746  0.02320167  0.05165351 ... -0.00563888  0.01061138
+ -0.00687064]",0.8423199725705421
+162,03 November - The India national cricket team are defeated for the first time at home in a test series by the New Zealand national cricket team.,"[ 0.00984263 -0.0033144   0.06249037 ...  0.01703569 -0.015181
+  0.02190303]",0.8258793891759493
+163,"04 November - 2024 Almora bus accident : A bus falls off a gorge in Marchula, Uttarakhand, killing 36 people and injuring 27 others.","[-0.02052068  0.00193339  0.03123033 ... -0.00689837  0.00842606
+  0.00696181]",0.8347094971964475
+164,06 November - The Jammu and Kashmir Legislative Assembly passes a resolution calling on the union government to restore semi-autonomous status for the region.,[0.02638792 0.01062819 0.04782685 ... 0.00861005 0.00496168 0.00287509],0.8483135452296302
+165,11 November - Vistara ceases operations after nine years in operation following a merger agreement with Air India.,"[-0.02770004  0.03449439  0.05796974 ...  0.01623457  0.00958177
+  0.00327196]",0.7567120674978653
+166,"11 November - Ten members of the Hmar people are killed in disputed circumstances by paramilitary forces near Jiribam, Manipur.","[-0.00294302  0.05912372  0.03837571 ... -0.01143774 -0.01091094
+ -0.01734404]",0.877803526064295
+167,20 November - 2024 Jharkhand Legislative Assembly election: The Jharkhand Mukti Morcha-led alliance wins a majority in the Jharkhand Legislative Assembly.,"[ 0.01827309 -0.01976456  0.05570822 ... -0.01480614 -0.0113787
+  0.00561527]",0.8622700336747212
+168,13 November - The Supreme Court outlaws the government's practice of outright demolishing the homes of people accused of criminal offences.,"[ 0.05627719  0.02072385  0.0492133  ...  0.00521313 -0.01361319
+ -0.04474575]",0.9214867955283552
+169,15 November - At least ten infants are killed in a fire at the neonatal ward of a hospital in Jhansi.,[0.00257446 0.06486195 0.04636789 ... 0.01562925 0.01671324 0.0075381 ],0.8541664763677137
+170,16 November - India successfully launches its first hypersonic missile at a test site in Abdul Kalam Island.,"[ 0.00745153  0.03450911  0.06229964 ...  0.00695272 -0.02026774
+ -0.01237849]",0.5894943891433113
+171,20 November - 2024 Maharashtra Legislative Assembly election: The BJP-led Maha Yuti alliance wins a landslide victory in the Maharashtra Legislative Assembly.,"[ 0.02344252 -0.02177387  0.05168751 ...  0.00916232  0.01302362
+ -0.01121253]",0.8966036643725226
+172,"22 November - An Indian Navy submarine collides with a fishing vessel off the coast of Goa, leaving two fishermen missing.","[-0.01573358  0.09255792  0.04589754 ...  0.04589754  0.03186976
+ -0.001429  ]",0.743997908484785
+173,"24 November - 2024 Sambhal violence: Four people are killed following clashes over a court-monitored survey on a mosque in Sambhal, Uttar Pradesh.","[ 0.00699609  0.04950101  0.05267144 ... -0.01237525  0.01888521
+ -0.01352718]",0.8412368356132236
+174,26 November - Thirteen-year old Vaibhav Suryavanshi becomes the youngest person to sign a contract to play in the Indian Premier League after joining the Rajasthan Royals for 11 million rupees.,"[-0.00604599  0.0303872   0.0544844  ... -0.00850776  0.03409613
+  0.03225251]",0.8254476304902685
+175,"30 November - Cyclone Fengal makes landfall in Tamil Nadu, killing three people.",[0.02520017 0.04442504 0.05330138 ... 0.03448785 0.03264764 0.02452903],0.8566913597821514
+176,"01 December - At least one person is killed and three others are injured in the collapse of an under-construction tunnel of the Delhi–Mumbai Expressway in Kota, Rajasthan.","[-0.01407485  0.01287535  0.01233613 ... -0.01045985  0.00461642
+ -0.00149937]",0.8677374114426575
+177,03 December - The Bangladeshi consulate in Agartala is stormed by protesters demonstrating against the arrest of Hindu community leader Chinmoy Krishna Das in Chittagong.,"[ 0.03355806  0.04197793  0.07638607 ... -0.00038772 -0.00379502
+ -0.04205889]",0.8738625701307141
+178,04 December - A ban on the public consumption of beef comes into effect in Assam.,"[ 0.07410549 -0.01101226  0.03192059 ...  0.03488941  0.01394656
+  0.02158725]",0.8869514303959565
+179,"09 December - A bus ploughs through a crowd at a market in Mumbai, killing nine and injuring 29.",[0.01285849 0.02352612 0.01898061 ... 0.03261716 0.01830492 0.00158812],0.8663144306990938
+180,09 December - The suicide of Atul Subhash in Bengaluru generates discussion over the effects of dowry laws on men.,[0.04484998 0.06638408 0.05492978 ... 0.0525371  0.01998141 0.00721622],0.8897488177848921
+181,11 December - Sanjay Malhotra is inaugurated as governor of the Reserve Bank of India.,"[ 0.01843085 -0.03325272  0.03487989 ... -0.00292578  0.02244663
+ -0.0154477 ]",0.7864947679146923
+182,12 December - Eighteen-year old Gukesh Dommaraju of Chennai becomes the youngest person to win the World Chess Championship.,[0.04729468 0.00660199 0.05097553 ... 0.00461712 0.04528305 0.02844101],0.8665982608179345
+183,14 December - Actor Allu Arjun is arrested overnight on charges involving the death of a woman at a stampede during a film event in Hyderabad.,"[ 0.01905123 -0.01055377 -0.00264348 ... -0.00327096  0.03189316
+  0.0259258 ]",0.8920413930933556
+184,18 December - A bill calling for the synchronisation of state and general elections fails to pass in the Lok Sabha.,"[ 0.08060289  0.04388768  0.06555818 ...  0.0180952  -0.02042406
+  0.02753094]",0.8133185767530727
+185,"18 December - 2024 Mumbai boat accident: An Indian Navy speedboat collides with a ferry traveling from Mumbai to Elephanta Island, killing 13 people.","[ 0.02025224  0.03578028  0.02972055 ...  0.01579714  0.05461725
+ -0.00029869]",0.7704113002780083
+186,"19 December - Five suspected militants are killed in an encounter with security forces in Kulgam district, Jammu and Kashmir.","[ 0.0194302   0.01648592  0.01049654 ... -0.00688174 -0.00738589
+  0.00569193]",0.8711745167775861
+187,23 December - The Delhi High Court denies anticipatory bail to trainee IAS officer Puja Khedkar on using fraulent methods to clear the UPSC exam.,"[ 0.03180205  0.03313807  0.047381   ... -0.01586524  0.0056751
+  0.01094463]",0.8037641998942135
+188,25 December - A female engineering student is sexually assaulted by two men inside the Anna University in Chennai.,"[ 0.05866082  0.00751711  0.02410474 ... -0.01739112 -0.01140958
+  0.02425949]",0.826571780265982
