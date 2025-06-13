@@ -1,11 +1,8 @@
-```markdown
-# 🚀 Contextual AI Q&A System
+### 🚀 Contextual AI Q&A System
 
 **An intelligent Question Answering system leveraging OpenAI embeddings and RAG for precise answers from custom knowledge bases.**
 
----
-
-## ✨ Demo
+### ✨ Demo
 
 *(Replace this section with a GIF or screenshot showing your system in action!)*
 
@@ -13,13 +10,10 @@ Here's a quick look at how the system processes a question and retrieves relevan
 
 ![Demo Screenshot/GIF](https://placehold.co/600x400/FFF/000?text=Your+Demo+Here)
 
----
 
-## 💡 Problem Statement
+### 💡 Problem Statement
 
 Navigating through large volumes of unstructured text to find specific answers can be time-consuming and inefficient. Traditional keyword search often falls short, missing contextually relevant information. This project addresses this challenge by enabling users to ask natural language questions and receive accurate, targeted answers directly from a provided knowledge base.
-
----
 
 ## 🧠 Solution Overview: Retrieval-Augmented Generation (RAG)
 
@@ -30,9 +24,8 @@ This system is built upon a **Retrieval-Augmented Generation (RAG)** architectur
 3.  **Contextual Prompting:** The top-ranked, most relevant document snippets are then combined with the user's original question to form a comprehensive prompt.
 4.  **LLM Inference:** This context-rich prompt is fed to a powerful **Large Language Model (LLM)** like `gpt-3.5-turbo`. The LLM then generates a concise and accurate answer based *only* on the provided context, minimizing hallucinations and ensuring factual grounding.
 
----
 
-## 🌟 Key Features
+### 🌟 Key Features
 
 * **Contextual Question Answering:** Provides precise and accurate answers by retrieving information from a custom knowledge base.
 * **Advanced Semantic Search:** Utilizes state-of-the-art OpenAI embedding models for highly relevant context retrieval.
@@ -41,9 +34,7 @@ This system is built upon a **Retrieval-Augmented Generation (RAG)** architectur
 * **Modular Python Implementation:** Designed with clean, maintainable, and reusable Python code.
 * **Scalable Architecture:** Easily adaptable to larger datasets and different OpenAI models.
 
----
-
-## 🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 | Category   | Technology            | Badge                                                                                              |
 | :--------- | :-------------------- | :------------------------------------------------------------------------------------------------- |
@@ -59,7 +50,7 @@ This system is built upon a **Retrieval-Augmented Generation (RAG)** architectur
 
 ---
 
-## 🚀 Quickstart
+### 🚀 Quickstart
 
 Follow these steps to set up and run the project locally.
 
@@ -161,7 +152,7 @@ python src/main.py
 
 ---
 
-## 📈 Future Enhancements
+### 📈 Future Enhancements
 
 * **User Interface:** Develop a more interactive web UI using frameworks like Streamlit or Gradio for a better user experience.
 * **Scalability:** Integrate with vector databases (e.g., Pinecone, Weaviate, ChromaDB) for efficient storage and retrieval of millions of embeddings.
